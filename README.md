@@ -1,5 +1,3 @@
-Certainly, I will add a section for answering the research questions based on the content generated earlier.
-
 # Systematic Literature Review: Blockchain Technology Application in Education
 
 ## Introduction
